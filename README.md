@@ -4,7 +4,7 @@
 
 | Field | Detail |
 |---|---|
-| **Reporter** | Yash Paghada |
+| **Reporter** | Anmol Darve |
 | **Stack** | DVWA (vulnerable app) + SafeLine WAF v9.3.9 |
 | **Server / DVWA Host** | 10.60.245.167 (hostname: Wazuh) |
 | **Attacker Host** | 10.60.245.192 (used for the SQLi test) |
